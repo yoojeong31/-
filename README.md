@@ -60,9 +60,6 @@
 
 🔗 **[html 링크]([https://github.com/BDBD-hywu](https://bestdayofbigdata22.framer.website/))**  
 
-
-- E-mail : bestdayofbigdata22@gmail.com
-
 <!--
 **BDBD-hywu/BDBD-hywu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
