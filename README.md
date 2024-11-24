@@ -62,9 +62,9 @@
 ## 프로젝트 활용 파일 및 링크 🔗
 
 - **데이터 수집 및 전처리 코드**  
-  - [`키워드열_추출_및_단어_분리.ipynb`](https://github.com/yoojeong31/graduation-work/tree/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91%20%EB%B0%8F%20%EC%A0%84%EC%B2%98%EB%A6%AC/키워드열_추출_및_단어_분리.ipynb)
-  - [`뉴스_기사_별_이해관계자_추출.ipynb`](https://github.com/yoojeong31/graduation-work/tree/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91%20%EB%B0%8F%20%EC%A0%84%EC%B2%98%EB%A6%AC/뉴스_기사_별_이해관계자_추출.ipynb)
-  - [`대분류,_언론사_코드_정리.ipynb`](https://github.com/yoojeong31/graduation-work/tree/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91%20%EB%B0%8F%20%EC%A0%84%EC%B2%98%EB%A6%AC/대분류,_언론사_코드_정리.ipynb)
+  - [`키워드열_추출_및_단어_분리.ipynb`](https://github.com/yoojeong31/graduation-work/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91%20%EB%B0%8F%20%EC%A0%84%EC%B2%98%EB%A6%AC/%E1%84%82%E1%85%B2%E1%84%89%E1%85%B3_%E1%84%80%E1%85%B5%E1%84%89%E1%85%A1_%E1%84%87%E1%85%A7%E1%86%AF_%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A2%E1%84%80%E1%85%AA%E1%86%AB%E1%84%80%E1%85%A8%E1%84%8C%E1%85%A1_%E1%84%8E%E1%85%AE%E1%84%8E%E1%85%AE%E1%86%AF.ipynb)
+  - [`뉴스_기사_별_이해관계자_추출.ipynb`]([https://github.com/yoojeong31/graduation-work/tree/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91%20%EB%B0%8F%20%EC%A0%84%EC%B2%98%EB%A6%AC/뉴스_기사_별_이해관계자_추출.ipynb](https://github.com/yoojeong31/graduation-work/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91%20%EB%B0%8F%20%EC%A0%84%EC%B2%98%EB%A6%AC/%E1%84%8F%E1%85%B5%E1%84%8B%E1%85%AF%E1%84%83%E1%85%B3%E1%84%8B%E1%85%A7%E1%86%AF_%E1%84%8E%E1%85%AE%E1%84%8E%E1%85%AE%E1%86%AF_%E1%84%86%E1%85%B5%E1%86%BE_%E1%84%83%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%A5_%E1%84%87%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B5.ipynb))
+  - [`대분류,_언론사_코드_정리.ipynb`](https://github.com/yoojeong31/graduation-work/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91%20%EB%B0%8F%20%EC%A0%84%EC%B2%98%EB%A6%AC/%E1%84%83%E1%85%A2%E1%84%87%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B2%2C_%E1%84%8B%E1%85%A5%E1%86%AB%E1%84%85%E1%85%A9%E1%86%AB%E1%84%89%E1%85%A1_%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B3_%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5.ipynbb)
 
 - **분석 결과 및 대시보드**  
   - 진행 과정에서 산출된 대시보드와 분석 결과는 HTML 페이지로 제공되며, 아래 링크에서 확인하실 수 있습니다!
