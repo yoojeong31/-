@@ -54,19 +54,12 @@
 
 ---
 
----
-
 ## 프로젝트 주요 내용 📈
 
 프로젝트 산출물 및 대시보드는 HTML 페이지를 통해 제공될 예정이며, GitHub에서 코드와 자료를 직접 확인하실 수 있습니다.
 
 🔗 **[html 링크]([https://github.com/BDBD-hywu](https://bestdayofbigdata22.framer.website/))**  
 
----
-
-## 소통해요! 🤝
-
-해당 프로젝트에 관심이 있으시거나 궁금한 점이 있다면 언제든지 연락 주세요!
 
 - E-mail : bestdayofbigdata22@gmail.com
 
